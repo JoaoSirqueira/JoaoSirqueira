@@ -2,6 +2,8 @@
 <img width=100% src="https://cdn.discordapp.com/attachments/1083369158781186088/1083369206613024818/devSirqBanner.png"/>
 <br/><br/>
 <h1 align="center" color: blue>Hello, Devs!</h1>
+<h3>"Developers don't just write code, they turn ideas into reality."<h3>
+<br/><br/>
 
 ## Studying in this moment:
 <div style="display: inline-block"><br/>
