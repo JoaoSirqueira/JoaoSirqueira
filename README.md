@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 <img width=100% src="https://cdn.discordapp.com/attachments/1083369158781186088/1083369206613024818/devSirqBanner.png"/>
 <br/><br/>
-<h1 align="center">Hello, Devs!</h1>
+<h1>Hello, Devs!</h1>
 <h3>"Developers don't just write code, they turn ideas into reality."<h3>
 <br/><br/>
 <h1>Studying in this moment:<h1>
