@@ -3,7 +3,7 @@
 <h1>Hello, Devs!</h1>
 <h3>"Developers don't just write code, they turn ideas into reality."<h3>
 <br/><br/>
-<h1>Studying in this moment:<h1>
+<h1>Skills:<h1>
 <div style="display: inline-block"><br/>
     <img align = "center" alt = "html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align = "center" alt = "c#" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
