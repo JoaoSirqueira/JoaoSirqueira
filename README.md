@@ -25,6 +25,10 @@
     
  <br/><br/>
  
-![JoaoSirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSirqueira&show_icons=true&theme=transparent)
+<div>
+<a href="https://github.com/JoaoSirqueira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSirqueira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&custom_title=Commits"/>
+
+</div>
     <br/><br/>
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
