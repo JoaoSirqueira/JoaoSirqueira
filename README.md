@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
-<img width=100% src="https://cdn.discordapp.com/attachments/1083369158781186088/1083369206613024818/devSirqBanner.png"/>
 <br/><br/>
 <h1>Hello, Devs!</h1>
 <h3>"Developers don't just write code, they turn ideas into reality."<h3>
@@ -25,7 +24,7 @@
     <img align = "center" alt = "figma" src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black">
     <img align = "center" alt = "canva" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=black">
     
- <br/>
+ <br/><br/>
 <div>
 <a href="https://github.com/JoaoSirqueira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSirqueira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&custom_title=Commits"/>
