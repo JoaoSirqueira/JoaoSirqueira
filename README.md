@@ -1,5 +1,7 @@
 <h1> Hello World! I'm João Sirqueira, a Systems Developer </h1>
-<h3>Currently working as a Systems Analyst and Technical Support. I’m also a Systems Development Technician, always looking to improve my skills and explore new technologies.</h3>
+<h3>Currently working as a Systems Analyst and Technical Support, and studying Systems Analysis and Development at FAM. I’m also a Systems Development Technician, always looking to improve my skills and explore new technologies.</h3>
+
+
 </br>
 <h2>🚀 Languages and Tools I've Used</h2>
 
